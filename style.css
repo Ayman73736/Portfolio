@@ -20,7 +20,7 @@
 
 @media (max-width: 991px) {
     .navbar-brand{
-        margin-left: -220px;
+        margin-left: -180px;
     }
 
     .bgimage {
@@ -37,7 +37,7 @@
         border-radius: 10px;
     }
     .navbar-nav{
-        margin-left: 400px;
+        margin-left: 250px;
     }
     .imageAboutPage {
       width: 80%; 
