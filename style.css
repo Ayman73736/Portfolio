@@ -20,11 +20,11 @@
 
 @media (max-width: 991px) {
     .navbar-brand{
-        margin-left: -1800px;
+        margin-left: -180px;
     }
 
     .bgimage {
-      height: 80vh;
+      height: 90vh;
     }
     .po{
         width: 50px;
@@ -40,7 +40,7 @@
         margin-left: 200px;
     }
     .imageAboutPage {
-      width: 80%; 
+      width: 50%; 
     }
   }
 .navbar-toggler-icon {
